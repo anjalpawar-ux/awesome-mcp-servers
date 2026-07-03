@@ -562,7 +562,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[xctools](https://github.com/nzrsky/xctools-mcp-server)** - 🍎 MCP server for Xcode's xctrace, xcrun, xcodebuild.
 - **[YouTube](https://github.com/anaisbetts/mcp-youtube)** - Fetch YouTube subtitles
 - **[Yuga Planner](https://github.com/blackopsrepl/yuga-planner)** - AI Task schedule planning with LLamaIndex and Timefold: breaks down a task description and schedules it around an existing calendar
-- [codeforces-mcp](https://github.com/<your-username>/codeforces-mcp) - Query Codeforces user stats, contests, and get personalized problem recommendations.
+- [codeforces-mcp](https://github.com/anjalpawar-ux/codeforces-mcp) - Query Codeforces user stats, contests, and get personalized problem recommendations.
 ## Clients
 
 - **[MBro](https://github.com/sitbon/magg/blob/main/docs/mbro.md)** - A powerful interactive terminal **M**CP **Bro**wser client with tab completion and automatic documentation that allows you to work with multiple MCP servers, manage tools, and create complex workflows using AI assistants.
